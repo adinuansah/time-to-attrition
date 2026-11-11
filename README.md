@@ -20,6 +20,8 @@ Before analyzing anything, I made a few cleaning calls:
 
 ## What I found
 
+![Employees on grey pay leave much sooner](retention_by_pay.png)
+
 **Most people who leave do it in months 6 to 24.** 94% are still there at six months, 70% at two years, and 61% at three. After year two, the pace of exits slows noticeably.
 
 **Partly undeclared ("grey") pay is the clearest warning sign.** People paid that way had 65% higher risk of leaving, even after accounting for industry, role, age and the rest. Most of that extra risk shows up in the first two years.
